@@ -1,6 +1,7 @@
 Project: Understanding Sales Trends
 
-- Finding the following Analytical Analysis on the Sales Data
+Finding the following Analytical Analysis on the Sales Data
+_____________________________________________________________
   
 1.	What is the total profit for each category?
 

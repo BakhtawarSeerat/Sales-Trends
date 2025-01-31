@@ -32,7 +32,8 @@ b.	Add Slicers to filter the chart by Region and Ship Mode.
 
 11.	Calculate the contribution of each category to the overall sales.
 
-- Regional Insights-
+Regional Insights
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 12.	
 
@@ -50,7 +51,8 @@ a.	Create a pivot table to show total sales by region and Category
 
 (Use SUMIF to calculate sales per region and divide by total sales.)
 
--Identify Key Drivers of Revenue-
+Identify Key Drivers of Revenue
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 16.	
 
@@ -58,16 +60,22 @@ a.	Calculate the total sales against each order ID and use conditional formattin
 
 b.	For the tops 5 order IDs, create a table that lists down the category wise sales using index match (structure shown below):
 
-Order IDs	Category 1	Category 2	Category 3	Total
-
-123				
-456				
-789				
-012				
-345				
-678				
+OrderIDs	- Category1 - Category2 - Category3 - Total
+________________________________________________________
+123		
+________________________________________________________
+456	
+________________________________________________________
+789		
+________________________________________________________
+012		
+________________________________________________________
+345		
+________________________________________________________
+678		
+________________________________________________________
 Total				
-
+________________________________________________________
 17.	How many orders fall within specific sales ranges (e.g., <$100, $100-$200, $200-$300, $300-$400, $400-$500, $500-$600, $600-$700, $700-$800, $800-$900, >$1,000)?
 (Use COUNTIFS to define multiple ranges.)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
